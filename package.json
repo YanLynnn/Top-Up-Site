@@ -1,0 +1,7 @@
+{
+  "name": "topup-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web top up game: Duitku (DANA/QRIS) + Digiflazz + Supabase, jalan di Vercel tanpa dependency.",
+  "engines": { "node": ">=20" }
+}
